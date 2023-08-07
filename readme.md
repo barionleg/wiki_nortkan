@@ -29,6 +29,8 @@ https://github.com/barionleg/Biosteel_UTMOST
 
 https://aibolem.github.io/svaerchok_nortkan/docs/main.html
 
+https://github.com/aibolem/svaerchok_nortkan
+
 https://github.com/aibolem/spider-silk-hardware
 
 https://github.com/barionleg/bionetsim
