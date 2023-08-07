@@ -35,6 +35,17 @@ https://github.com/aibolem/spider-silk-hardware
 
 https://github.com/barionleg/bionetsim
 
+https://github.com/barionleg/OpenSyringePump
+
+https://aibolem.github.io/spider-silk-hardware/html/esilkprojectthesis.html
+
+https://aibolem.github.io/spider-silk-hardware/html/esilkproject_ru.html
+
+https://aibolem.github.io/spider-silk-hardware/html/SyringePumpGuide.html
+
+https://aibolem.github.io/spider-silk-hardware/html/syringepumpassemblyguide.html
+
+
 
 
 
